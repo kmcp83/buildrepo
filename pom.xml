@@ -160,7 +160,7 @@
         <repository>
             <id>releases</id>
             <name>Releases</name>
-            <url>http://ec2-13-126-197-251.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+            <url>http://localhost:8081/nexus/content/repositories/releases/</url>
         </repository>
     </distributionManagement>
 	<dependencies>
